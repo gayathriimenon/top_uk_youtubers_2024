@@ -134,12 +134,48 @@ RETURN viewsPerSubscriber
 ### Analysis
 Findings:
 
-Who are the top 10 YouTubers with the most subscribers?
-Which 3 channels have uploaded the most videos?
-Which 3 channels have the most views?
-Which 3 channels have the highest average views per video?
-Which 3 channels have the highest views per subscriber ratio?
-Which 3 channels have the highest subscriber engagement rate per video uploaded?
+#### Who are the top 10 YouTubers with the most subscribers?
+
+- NoCopyrightSounds	
+- DanTDM
+- Dan Rhodes
+- Miss Katy	
+- Mister Max
+- KSI	
+- Jelly	
+- Dua Lipa
+- Sidemen	
+- Ali-A	
+
+#### Which 3 channels have uploaded the most videos?
+
+-	GRM Daily	
+-	Manchester City	
+-	Yogscast
+
+#### Which 3 channels have the most views?
+
+-	DanTDM	
+-	Dan Rhodes	
+-	Mister Max
+
+#### Which 3 channels have the highest average views per video?
+
+- Mark Ronson	
+- Jessie J	
+- Dua Lipa
+
+#### Which 3 channels have the highest views per subscriber ratio?
+
+-	GRM Daily
+-	Nickelodeon	
+-	Disney Junior UK
+
+#### Which 3 channels have the highest subscriber engagement rate per video uploaded?
+
+-	Mark Ronson	
+-	Jessie J	
+-	Dua Lipa
 
 
 
